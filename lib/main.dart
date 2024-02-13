@@ -4,7 +4,7 @@ import 'package:music_player/pages/map_page.dart';
 void main() {
   runApp(const MyApp());
 }
-
+// some comment
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
